@@ -329,7 +329,7 @@ def own():
     print 50 * '\033[1;94m_'
     print 50 * '\033[1;94m_'
     try:
-        c = raw_input('\n\x1b[1;93m[\x1b[1;97m@SALMAN@\033[1;97m] \x1b[1;97m[◈] \x1b[1;97mChoose Area Code:\x1b[1;97m')
+        c = raw_input('\n\x1b[1;97m[\x1b[1;97m@SALMAN@\033[1;97m] \x1b[1;97m[◈] \x1b[1;97mChoose Area Code:\x1b[1;97m')
         pass1 = raw_input('\x1b[1;97m[\x1b[1;97m✔️Salman Pathan✔️\033[1;97m] \x1b[1;97m[◈] \x1b[1;97mEnter Your Password: \x1b[1;97m')
         k = '+880'
         idlist = '.txt'
