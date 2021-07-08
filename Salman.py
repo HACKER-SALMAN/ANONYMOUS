@@ -96,9 +96,9 @@ print """
 \033[1;97m  Youtube : Salman Anonymous
 \033[1;97m  WhatsAppn: +16186008233
 \033[1;97m  Country :  Pakistan
-\033[1;97m  Skilln:  Anonymous Hacker
-\033[1;97m   Warning☠️n: I am not responsible for any miss you
-\033[1;91m    Khatmai--Nabowat--ZindabaD
+\033[1;97m  Skill:  Anonymous Hacker
+\033[1;97m  Warning: I am not responsible for any miss you
+\033[1;91m  Khatmai--Nabowat--ZindabaD
 \033[1;93m <---------------------------------------------------------------------------->
 
 """
@@ -160,8 +160,8 @@ def pilih_login():
 def login1():
     os.system('clear')
     print logo
-    print '\x1b[1;97m[\x1b[1;97mAlone\033[1;93m] \x1b[1;97m[1]\x1b[1;93mClone Bangla FB Accounts.'
-    print "\x1b[1;97m[\x1b[1;97mHacking\033[1;93m] \033[1;97m[2] Follow Me On Facebook"
+    print '\x1b[1;97m[\x1b[1;97mAlone\033[1;93m] \x1b[1;97m[1]\x1b[1;97mClone Bangla FB Accounts.'
+    print "\x1b[1;97m[\x1b[1;97mHacking\033[1;97m] \033[1;97m[2] Follow Me On Facebook"
     print '\x1b[1;97m[\x1b[1;97m🔰Master🔰\033[1;97m] \x1b[1;97m[0]\x1b[1;97m Exit The Program.'
     pilih_login1()
 
