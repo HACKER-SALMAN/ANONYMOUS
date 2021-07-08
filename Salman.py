@@ -91,7 +91,7 @@ print """
      
 
 
-\033[1;93m <--------------------------------------------------------------------------->
+\033[1;93m <---------------------------------------------->
 \033[1;97m  Author : Muhammad Salman
 \033[1;97m  Youtube : Salman Anonymous
 \033[1;97m  WhatsAppn: +16186008233
@@ -99,7 +99,7 @@ print """
 \033[1;97m  Skill:  Anonymous Hacker
 \033[1;97m  Warning: I am not responsible for any miss you
 \033[1;91m  Khatmai--Nabowat--ZindabaD
-\033[1;93m <---------------------------------------------------------------------------->
+\033[1;93m <---------------------------------------------->
 
 """
 
@@ -124,9 +124,9 @@ CorrectCodeWord ='SALMAN'
 print '   \x1b[1;93m[🔒] Please Enter The Hacker Salman Tool Password[🔒]'
 loop = 'true'
 while loop == 'true':
-    CodeWord = raw_input('\x1b[1;93m[\x1b[1;92m@SALMAN@\033[1;93m] \x1b[1;91m[🔐] Enter Password\x1b[1;97m: ')
+    CodeWord = raw_input('\x1b[1;97m[\x1b[1;97m@SALMAN@\033[1;97m] \x1b[1;97m[🔐] Enter Password\x1b[1;97m: ')
     if (CodeWord == CorrectCodeWord):
-        print('\n            \x1b[1;92m🔓🔓 Correct Entry 🔓🔓 \n                  ')
+        print('\n            \x1b[1;93m🔓🔓 Correct Entry 🔓🔓 \n                  ')
         jalan('    \x1b[1;97m•◈•◈•◈•◈• Welcome To Hacker Salman Tool •◈•◈•◈•◈•')
         loop = 'false'
     else:
@@ -140,8 +140,8 @@ def login():
     print logo
     os.system('clear')
     print logo
-    print "\x1b[1;93m[\x1b[1;97mSALMAN\033[1;97m] \033[1;97m[1] First Follow Me On Facebook"
-    print "\x1b[1;93m[\x1b[1;97mPATHAN\033[1;97m] \033[1;97m[0] Exit"
+    print "\x1b[1;97m[\x1b[1;97mSALMAN\033[1;97m] \033[1;97m[1] First Follow Me On Facebook"
+    print "\x1b[1;97m[\x1b[1;97mPATHAN\033[1;97m] \033[1;97m[0] Exit"
     pilih_login()
 def pilih_login():
     peak = raw_input('\n\x1b[1;97m[\x1b[1;97m✔️SALMAN✔️\033[1;97m] \x1b[1;97m[◈] \x1b[1;97mChoose an Option:\x1b[1;97m')
@@ -160,7 +160,7 @@ def pilih_login():
 def login1():
     os.system('clear')
     print logo
-    print '\x1b[1;97m[\x1b[1;97mAlone\033[1;93m] \x1b[1;97m[1]\x1b[1;97mClone Bangla FB Accounts.'
+    print '\x1b[1;97m[\x1b[1;97mAlone\033[1;97m] \x1b[1;97m[1]\x1b[1;97mClone Bangla FB Accounts.'
     print "\x1b[1;97m[\x1b[1;97mHacking\033[1;97m] \033[1;97m[2] Follow Me On Facebook"
     print '\x1b[1;97m[\x1b[1;97m🔰Master🔰\033[1;97m] \x1b[1;97m[0]\x1b[1;97m Exit The Program.'
     pilih_login1()
